@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LexingtonLawTest765_Suite">
+       <listeners> 
+              <listener class-name="com.pgx.framework.listeners.WebTestListeners" />
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+              <parameter name="width" value="765" />
+              <parameter name="height" value="700" />
+       <test name="LexingtonLaw_RWDTest">
+		<classes>
+                     <class name="com.pgx.LexingtonLaw.test.HomePageTest"/>
+                     <class name="com.pgx.LexingtonLaw.test.CreditEducationTest"/>
+                     <class name="com.pgx.LexingtonLaw.test.BadCreditTest"/>
+ 		</classes>
+       </test>
+</suite>

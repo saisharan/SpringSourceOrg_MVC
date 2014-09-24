@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  TestLink - www.teamst.org - xml to allow results import -->
+<results>
+  <testproject name="MyProject" prefix="MyPro" />
+  <testplan name="MyPlan" />
+  <build name="MyBuild" />
+  <testcase external_id="MyPro-1">
+    <result>P</result>
+    <notes>Test Pass</notes>
+    <tester>nainappa</tester>
+    <timestamp>2014-01-30 03:36:34</timestamp>
+    <bug_id>put your bug id here</bug_id>
+  </testcase>
+  <testcase external_id="MyPro-2">
+    <result>F</result>
+    <notes>Test Fail</notes>
+    <tester>nainappa</tester>
+    <timestamp>2014-01-30 03:36:34</timestamp>
+    <bug_id>put your bug id here</bug_id>
+  </testcase>
+</results>
+

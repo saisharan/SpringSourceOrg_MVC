@@ -1,0 +1,9 @@
+#surefire
+#Mon Sep 22 18:47:17 IST 2014
+testResultScreenshots=P\:\\Users\\nailli\\Lexington\\MergeCopy/target/reports/screenshots
+testResultVideos=P\:\\Users\\nailli\\Lexington\\MergeCopy/target/reports/videos
+org.uncommons.reportng.escape-output=false
+user.dir=P\:\\Users\\nailli\\Lexington\\MergeCopy
+localRepository=P\:\\Users\\nailli\\.m2\\repository
+testRoot=P\:\\Users\\nailli\\Lexington\\MergeCopy
+basedir=P\:\\Users\\nailli\\Lexington\\MergeCopy

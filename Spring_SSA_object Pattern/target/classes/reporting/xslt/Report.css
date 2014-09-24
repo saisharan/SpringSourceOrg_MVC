@@ -1,0 +1,158 @@
+BODY
+{
+}
+SPAN
+{
+	FONT-WEIGHT: bold; 
+	WIDTH: 100%; 
+	COLOR: #6666cc; 
+	BORDER-BOTTOM: #3366cc 1px solid; 
+	POSITION: static; 
+	BACKGROUND-COLOR: gainsboro;
+}
+.TABLEHEAD
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #3366cc 1px solid;
+	BORDER-TOP: #3366cc 1px solid;
+	BORDER-LEFT: #3366cc 1px solid;
+	BORDER-BOTTOM: #3366cc 1px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 13px;
+}
+.PrevNext
+{
+	width: 100%;
+	border: 0;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 13px;
+	COLOR: #6666cc;
+}
+.EnvHeader
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #3366cc 1px solid;
+	BORDER-TOP: #3366cc 1px solid;
+	BORDER-LEFT: #3366cc 1px solid;
+	BORDER-BOTTOM: #3366cc 1px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 13px;
+	background-color:#eaa3aa;
+}
+.TestCase
+{
+	width: 100%;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 13px;
+	background-color:#ece3ff;
+}
+.TestFlow
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #696969 0px solid;
+	BORDER-TOP: #696969 0px solid;
+	BORDER-LEFT: #696969 0px solid;
+	BORDER-BOTTOM: #696969 0px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 12px;
+	COLOR: #A52A2A;
+}
+.TestActivity
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #696969 0px solid;
+	BORDER-TOP: #696969 0px solid;
+	BORDER-LEFT: #696969 0px solid;
+	BORDER-BOTTOM: #696969 0px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 12px;
+	COLOR: #353240;
+}
+.TestMethod
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #696969 0px solid;
+	BORDER-TOP: #696969 0px solid;
+	BORDER-LEFT: #696969 0px solid;
+	BORDER-BOTTOM: #696969 0px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 12px;
+	COLOR: #1A8DE6;
+}
+.TestSubMethod
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #696969 0px solid;
+	BORDER-TOP: #696969 0px solid;
+	BORDER-LEFT: #696969 0px solid;
+	BORDER-BOTTOM: #696969 0px solid;
+	FONT-FAMILY: "ARIAL";
+	FONT-SIZE: 12px;
+	COLOR: #8D38C9;
+}
+.MESSAGES
+{
+	width: 100%;
+	border: 0;
+	BORDER-RIGHT: #696969 0px solid;
+	BORDER-TOP: #696969 0px solid;
+	BORDER-LEFT: #696969 0px solid;
+	BORDER-BOTTOM: #696969 0px solid;
+	FONT: smallcaption;
+}
+.M1
+{
+	background-color: #F5F5F5;
+}
+.M2
+{
+	background-color: #FFFFFF;
+}
+
+.PASSED
+{
+	FONT-WEIGHT: bold; 
+	COLOR: #009933;
+	width: 10%;
+}
+.FAILED
+{
+	FONT-WEIGHT: bold; 
+	COLOR: #ff3333;
+	width: 10%;
+}
+.WARNINGS
+{
+	FONT-WEIGHT: bold;
+	COLOR: #FF8C00;
+	width: 10%;
+}
+.SKIPPED
+{
+	FONT-WEIGHT: bold;
+	COLOR: #FF00FF;
+	width: 10%;
+}
+.INFORMATION
+{
+	FONT-WEIGHT: bold;
+	COLOR: #800080 ;
+	width: 10%;
+}
+.MESSAGE
+{
+	FONT-WEIGHT: bold;
+	width: 45%;
+}
+.ADDITIONAL_INFORMATION
+{
+	FONT-WEIGHT: bold;
+	COLOR: #0000FF ;
+	width: 10%;
+}

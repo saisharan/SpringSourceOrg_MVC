@@ -1,0 +1,11 @@
+com\pgx\LexingtonLaw\page\HomePage.class
+com\pgx\LexingtonLaw\page\SignUpStepThreePage.class
+com\pgx\LexingtonLaw\page\SignUpStepFourPage.class
+com\pgx\LexingtonLaw\page\SignUpStepTwoPage.class
+com\pgx\LexingtonLaw\page\SignUpStepOnePage.class
+com\pgx\LexingtonLaw\test\CreditEducationTest.class
+com\pgx\LexingtonLaw\test\SignUp.class
+com\pgx\LexingtonLaw\test\HomePageTest.class
+com\pgx\LexingtonLaw\page\BadCreditPage.class
+com\pgx\LexingtonLaw\page\CreditEducationPage.class
+com\pgx\LexingtonLaw\test\BadCreditTest.class

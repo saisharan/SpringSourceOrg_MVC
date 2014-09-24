@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SignUp Flow Test_Suite">
+       <listeners> 
+              <listener class-name="com.pgx.framework.listeners.WebTestListeners" />
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+              <parameter name="width" value="1272" />
+              <parameter name="height" value="700" />
+       <test name="LexingtonLaw_RWDTest">
+		<classes>
+                     <class name="com.pgx.LexingtonLaw.test.SignUp"/>
+ 		</classes>
+       </test>
+</suite>

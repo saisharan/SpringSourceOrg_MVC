@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21764" started-at="2014-07-28T07:23:43Z" finished-at="2014-07-28T07:24:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21764" started-at="2014-07-28T07:23:43Z" finished-at="2014-07-28T07:24:05Z">
+      <class name="com.cognizant.framework.core.RWDDriverScript">
+        <test-method status="PASS" signature="main1()[pri:0, instance:com.cognizant.framework.core.RWDDriverScript@1d4f6b4]" name="main1" duration-ms="21748" started-at="2014-07-28T12:53:43Z" finished-at="2014-07-28T12:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main1 -->
+      </class> <!-- com.cognizant.framework.core.RWDDriverScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
